@@ -1,0 +1,14 @@
+C:\Users\naila\source\repos\homework'\bin\Debug\net6.0\homework'.exe
+C:\Users\naila\source\repos\homework'\bin\Debug\net6.0\homework'.deps.json
+C:\Users\naila\source\repos\homework'\bin\Debug\net6.0\homework'.runtimeconfig.json
+C:\Users\naila\source\repos\homework'\bin\Debug\net6.0\homework'.dll
+C:\Users\naila\source\repos\homework'\bin\Debug\net6.0\homework'.pdb
+C:\Users\naila\source\repos\homework'\obj\Debug\net6.0\homework'.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naila\source\repos\homework'\obj\Debug\net6.0\homework'.AssemblyInfoInputs.cache
+C:\Users\naila\source\repos\homework'\obj\Debug\net6.0\homework'.AssemblyInfo.cs
+C:\Users\naila\source\repos\homework'\obj\Debug\net6.0\homework'.csproj.CoreCompileInputs.cache
+C:\Users\naila\source\repos\homework'\obj\Debug\net6.0\homework'.dll
+C:\Users\naila\source\repos\homework'\obj\Debug\net6.0\refint\homework'.dll
+C:\Users\naila\source\repos\homework'\obj\Debug\net6.0\homework'.pdb
+C:\Users\naila\source\repos\homework'\obj\Debug\net6.0\homework'.genruntimeconfig.cache
+C:\Users\naila\source\repos\homework'\obj\Debug\net6.0\ref\homework'.dll
